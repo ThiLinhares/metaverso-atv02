@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cena_Acampamento.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 36b93c487f2701642a88b827eb60b238, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ad0d9aada13c5634faef74408db9a7bc, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e3d2eca2facd8d34eb1d842db1f62070, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9250445a538d5724489ea8a8becbeb44, type: 2}
+  m_UseUCBPForAssetBundles: 0
